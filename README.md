@@ -10,3 +10,5 @@ Task 2: Layout Using Floats (task2.html) A two-column layout constructed using d
 Task 3: Tribute Page (task3.html) A tribute page dedicated to Toby Fox. It incorporates Google Fonts, styled image borders with drop shadows, structured lists for developed games and achievements, and a styled external link button.
 
 Task 4: CSS Table & Feedback Form (task4.html) A webpage featuring a student grade table and a feedback form. The table includes custom header styling, cell borders, cell padding, alternate row coloring, a highlighted row class, and merged cells. The feedback form includes text inputs, email inputs, a dropdown menu, radio buttons, a textarea, and a styled submit button.
+
+Instructions: Settings -> pages -> open the link.
